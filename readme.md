@@ -89,7 +89,7 @@ ul
 <p class=MsoListParagraphCxSpFirst>&nbsp;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>1.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Downlod
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Download
 and install python version 3.8.2 from <a
 href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> making
 sure to check the “add python to PATH” box </p>
@@ -129,12 +129,8 @@ Service.</p>
 
 <p class=MsoNormal>The easiest way to run the script is navigate to the folder
 in which it is stored. Hold shift and right click in that folder, making sure
-you’re not right clicking on any file, and open your terminal here. In this
-example I will be using Powershell so I will click on “Open PowerShell window
-from here”</p>
-
-<p class=MsoNormal><img border=0 width=503 height=338 id="Picture 1"
-src="readme.md_files/image001.jpg"></p>
+you’re not right clicking on any file, and open your terminal here. If using
+Powershell click on “Open PowerShell window from here”</p>
 
 <p class=MsoNoSpacing>In Powershell run the command “python '.\microsoft
 translate.py'” and the script should run.</p>
