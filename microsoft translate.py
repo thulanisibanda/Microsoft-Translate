@@ -22,7 +22,7 @@ UserAuthentication = base64.b64encode(str.encode("username:password"))
 portalTranslateUrl = "https://env-test.apigee.net/get-portal-translations?"
 
 #mts translate setup
-mtsUrl = "https://env-dev.apigee.net/ade/v1/translate-document"
+microsoftTranslateUrl = "https://env-dev.apigee.net/ade/v1/translate-document"
 
 headers = {
             'Authorization': 'Basic '+ UserAuthentication.decode(),

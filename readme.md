@@ -110,9 +110,14 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span
 pip install by running command “pip --version” which should return something
 like “pip 19.2.3 from c:\users\sibandat\appdata\local\programs\python\etc”</p>
 
-<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'>5.<span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>5.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Run
 command “pip install pandas requests pybase64 openpyxl asyncio aiohttp xlrd”</p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt'>6.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Update
+UserAuthentication, portalTranslateUrl and microsoftTranslateUrl variables to
+your own</p>
 
 <p class=MsoNormal>&nbsp;</p>
 
@@ -124,8 +129,6 @@ same folder and store in a new folder called “processed” with the filename
 new column called Result Translation Type. This column lets you know where the
 translated text came from within Service Now or will show Microsoft Translate
 Service.</p>
-
-<p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal>The easiest way to run the script is navigate to the folder
 in which it is stored. Hold shift and right click in that folder, making sure
