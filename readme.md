@@ -6,8 +6,6 @@
 
 <p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%'>Set up</span></b></p>
 
-<p class=MsoListParagraphCxSpFirst>&nbsp;</p>
-
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Download
 and install python version 3.8.2 from <a
